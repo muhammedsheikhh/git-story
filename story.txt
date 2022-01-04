@@ -4,9 +4,13 @@ entury who is thought to have scrambled parts of Cicero's De Finibus
 Bonorum et Malorum for use in a type specimen book. It usually begins with:
 
 
-sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.”
-The purpose of lorem ipsum is to create a natural looking block of 
-text (sentence, paragraph, page, etc.) that doesn't distract from the 
+sed do eiusmod tempor 
+incididunt ut labore et dolore 
+magna aliqua.”
+The purpose of lorem ipsum is to
+ create a natural looking block of 
+text (sentence, paragraph, page, etc.) 
+that doesn't distract from the 
  
 filler text can be very useful when the focus is meant to be on design, not 
 content.
